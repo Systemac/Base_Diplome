@@ -1,0 +1,9 @@
+asgiref @ file:///E:/Dev/Base_Diplome/Source_python/asgiref-3.2.7-py2.py3-none-any.whl
+Django @ file:///E:/Dev/Base_Diplome/Source_python/Django-3.0.6-py3-none-any.whl
+django-auth-ldap3-ad @ file:///E:/Dev/Base_Diplome/Source_python/django_auth_ldap3_ad-1.6.33-py3-none-any.whl
+django-materializecss-form @ file:///E:/Dev/Base_Diplome/Source_python/django_materializecss_form-1.1.17-py2.py3-none-any.whl
+ldap3 @ file:///E:/Dev/Base_Diplome/Source_python/ldap3-2.7-py2.py3-none-any.whl
+pyasn1 @ file:///E:/Dev/Base_Diplome/Source_python/pyasn1-0.4.8-py2.py3-none-any.whl
+pytz @ file:///E:/Dev/Base_Diplome/Source_python/pytz-2020.1-py2.py3-none-any.whl
+six @ file:///E:/Dev/Base_Diplome/Source_python/six-1.14.0-py2.py3-none-any.whl
+sqlparse @ file:///E:/Dev/Base_Diplome/Source_python/sqlparse-0.3.1-py2.py3-none-any.whl

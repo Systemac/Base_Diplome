@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Base Diplome</title>
+    <link rel="stylesheet" href="{% static 'css/materialize.css' %}" type="text/css" media="screen, projection">
+</head>
+<body class="teal accent-3">
+    <div class="container">
+        <div class="grey-darken-4-text">
+            {% for i in session %}
+                {{ i }}</br>
+                    {% for j in i.get_pacs %}
+                        {{ j }} _ {{ j.grade }} _ {{ j.aptitude }}</br>
+                    {% endfor %}
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
